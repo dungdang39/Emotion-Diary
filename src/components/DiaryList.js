@@ -71,7 +71,7 @@ const DiaryList = ({ diaryList }) => {
           />
           <ControlMenu
             value={filter}
-            onChagne={setFilter}
+            onChange={setFilter}
             optionList={filterOptionList}
           />
         </div>

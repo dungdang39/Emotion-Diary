@@ -155,3 +155,83 @@ header button {
 .DIaryItem .btn_wrappper {
   min-width: 70px;
 }
+/* DiaryEditor */
+.DiaryEditor section {
+  margin-bottom: 40px;
+}
+.DiaryEditor h4 {
+  font-size: 22px;
+  font-weight: bold;
+}
+.DiaryEditor .input-date {
+  padding: 10px 20px;
+  font-size: 20px;
+  font-family: "Naumum Pen Script";
+  border: none;
+  border-radius: 5px;
+  background-color: #ececec;
+  cursor: pointer;
+}
+.DiaryEditor .emotion-list-wrapper {
+  display: grid;
+  grid-template-columns: repeat(5, auto);
+  gap: 2%;
+}
+.DiaryEditor textarea {
+  padding: 20px;
+  width: 100%;
+  min-height: 200px;
+  font-size: 20px;
+  font-family: "Nanum Pen Script";
+  border: none;
+  border-radius: 5px;
+  background-color: #ececec;
+  box-sizing: border-box;
+  resize: vertical;
+}
+.DiaryEditor .control-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* EmotionItem */
+.EmotionItem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px 0;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.EmotionItem img {
+  width: 50%;
+  margin-bottom: 10px;
+}
+.EmotionItem span {
+  font-size: 18px;
+}
+.EmotionItem_off {
+  background-color: #ececec;
+}
+.EmotionItem_on_1 {
+  background-color: #64c964;
+  color: #fff;
+}
+.EmotionItem_on_2 {
+  background-color: #9dd772;
+  color: #fff;
+}
+.EmotionItem_on_3 {
+  background-color: #fdce17;
+  color: #fff;
+}
+.EmotionItem_on_4 {
+  background-color: #fd8446;
+  color: #fff;
+}
+.EmotionItem_on_5 {
+  background-color: #fd565f;
+  color: #fff;
+}

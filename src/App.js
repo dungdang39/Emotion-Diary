@@ -3,7 +3,7 @@ import React,{useReducer, useRef} from "react";
 import './App.css';
 import {BrowserRouter, Route, Routes} from "react-router-dom";
 
-@@ -8,20 +10,114 @@ import New from './pages/New';
+import New from './pages/New';
 import Edit from './pages/Edit';
 import Diary from './pages/Diary';
 
