@@ -4,10 +4,10 @@
 
 [일기 작성하러 가기](https://taeho-diary-project.web.app/)
 
-![메인 화면](/public/assets/40img_home.png)
-![새 일기쓰기](/public/assets/40img_new.png)
-![일기 작성 후 메인 화면](/public/assets/40img_home2.png)
-![일기 수정](/public/assets/40img_edit.png)
+![메인 화면](/public/assets/img_home.png)
+![새 일기쓰기](/public/assets/img_new.png)
+![일기 작성 후 메인 화면](/public/assets/img_home2.png)
+![일기 수정](/public/assets/img_edit.png)
 
 ### Development
 
